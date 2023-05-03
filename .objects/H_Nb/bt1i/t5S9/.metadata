@@ -1,0 +1,12 @@
+﻿{
+  "Id": "t5S9-jgos02EobvkVrJVkA",
+  "Reference": "GWdhTpqAK0Ku7xdK-jm0pw/t5S9-jgos02EobvkVrJVkA",
+  "ParentRef": "GWdhTpqAK0Ku7xdK-jm0pw/bt1irm4lTkKEayG-2bK90Q",
+  "Name": "Open",
+  "Type": "Screen",
+  "Created": "2023-05-03T15:10:38.4325635Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-03T15:10:38.4325635Z"
+}
